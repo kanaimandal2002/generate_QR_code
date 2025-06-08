@@ -1,1 +1,19 @@
-# generate_QR_code
+# QR Code Generator
+
+![QR Code Generator Preview](qr.png)
+
+A lightweight web application that generates QR codes from text or URLs entirely in the browser.
+
+## Features
+
+- ✨ Instant QR code generation
+- 🌐 Works with URLs and plain text
+- 🔐 No server-side processing (100% client-side)
+- 📱 Responsive design for all devices
+- 🎨 Customizable QR code appearance
+
+## Quick Start
+
+1. Download the project files:
+   ```bash
+   git clone https://github.com/kanaimandal2002/qr-code-generator.git
