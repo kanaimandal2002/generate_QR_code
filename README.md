@@ -16,4 +16,4 @@ A lightweight web application that generates QR codes from text or URLs entirely
 
 1. Download the project files:
    ```bash
-   git clone https://github.com/kanaimandal2002/qr-code-generator.git
+   git clone https://github.com/kanaimandal2002/generate_QR_code.git
