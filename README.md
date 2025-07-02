@@ -2,7 +2,6 @@
 
 A lightweight web application that generates QR codes from text or URLs entirely in the browser.
 
-
 ![QR Code Generator Preview](qr.png)
 
 
