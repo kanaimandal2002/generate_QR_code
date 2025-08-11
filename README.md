@@ -13,6 +13,10 @@ A lightweight web application that generates QR codes from text or URLs entirely
 - 📱 Responsive design for all devices
 - 🎨 Customizable QR code appearance
 
+## Live Demo
+
+You can view a live version of this tool at [(https://kanaimandal2002.github.io/generator_QR_code/)]
+
 ## Quick Start
 
 1. Download the project files:
