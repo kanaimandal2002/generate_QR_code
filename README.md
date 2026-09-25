@@ -11,7 +11,6 @@ A lightweight web application that generates QR codes from text or URLs entirely
 - 🌐 Works with URLs and plain text
 - 🔐 No server-side processing (100% client-side)
 - 📱 Responsive design for all devices
-- 🎨 Customizable QR code appearance
 
 ## Live Demo
 
